@@ -1,6 +1,9 @@
 # College Application and Verification System
 
 A comprehensive web-based platform designed to streamline the college application process and ensure document authenticity through automated verification.
+MERN (Mongodb,Express,React,Node.js), Python, Data Visualization
+• Developed a student admission system using the MERN stack and Python for automated marks card verification.
+Streamlined data storage, verification, and provided an admin dashboard for efficient management.
 
 ## Project Overview
 
