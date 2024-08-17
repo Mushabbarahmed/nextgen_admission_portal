@@ -17,12 +17,12 @@ The College Application and Verification System is a modern solution for educati
 
 ## Technology Stack
 
-- Frontend: React.js/Angular
+- Frontend: React.js
 - Backend: Node.js with Express.js
-- Database: MongoDB and PostgreSQL
+- Database: MongoDB
 - OCR: Tesseract OCR (Python integration)
 - Data Visualization: D3.js/Chart.js
-- Hosting: AWS/Azure
+
 
 ## Benefits
 
