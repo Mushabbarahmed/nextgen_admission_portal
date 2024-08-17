@@ -6,6 +6,20 @@ A comprehensive web-based platform designed to streamline the college applicatio
 
 The College Application and Verification System is a modern solution for educational institutions to efficiently manage student applications and verify submitted documents. This system offers a user-friendly interface for prospective students to submit applications and upload mark sheets, while providing powerful tools for administrative decision-making.
 
+
+![image](https://github.com/user-attachments/assets/cbcdb6e4-0081-4665-a7fb-4fdd7ed7d1ba)
+![image](https://github.com/user-attachments/assets/d62c798c-75b3-4a4e-ab2f-75b16c23d7d1)
+![image](https://github.com/user-attachments/assets/08b11b1a-4b72-415e-819c-00ce216ca84e)
+![image](https://github.com/user-attachments/assets/f7ad8e26-4cd3-4ecd-8c78-c9d6f5e902d0)
+![image](https://github.com/user-attachments/assets/212bf484-5abf-4078-ada0-9e366806ae62)
+![image](https://github.com/user-attachments/assets/c47a9ec1-7e0b-40e4-9204-d5e47ce9c8bf)
+
+
+
+
+
+  
+
 ## Key Features
 
 - Online application submission with secure document upload
